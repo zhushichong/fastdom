@@ -12,7 +12,7 @@
  */
 
 'use strict';
-
+// add something
 /**
  * Mini logger
  *
